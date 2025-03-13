@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+#imagenes
+/src/assets/images/
+
+#credencialesfirebase
+/src/environments/environment.development.ts
